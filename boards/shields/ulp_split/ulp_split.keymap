@@ -35,13 +35,13 @@
                 &kp F1      &kp F2  &kp S     &kp D      &kp F      &kp G        &kp H     &kp J      &kp K      &kp L     &kp F11      &kp F12
                 &kp TAB     &kp A   &kp X     &kp C      &kp V      &kp B        &kp N     &kp M      &kp COMMA  &kp DOT   &kp SEMI     &kp ENTER
                 &kp LSHIFT  &kp Z   &kp LALT  &mo 1      &kp SPACE  &mo 2        &mo 2    &kp SPACE   &mo 1      &kp RALT  &kp SLASH    &kp RSHIFT
-            >
+            >;
         };
         Extra1 {
-            status = "reserved"
+            status = "reserved";
         };
         Extra2 {
-            status = "reserved"
+            status = "reserved";
         };
     };
 };
