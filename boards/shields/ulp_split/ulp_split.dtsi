@@ -31,6 +31,7 @@
             , <&XIAO_d 6 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             , <&XIAO_d 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             , <&XIAO_d 4 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            ;
 
         // Replace these comments with the GPIO pins in the matrix.
         // See https://zmk.dev/docs/development/hardware-integration/new-shield#shield-overlays
