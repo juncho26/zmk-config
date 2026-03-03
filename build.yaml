@@ -12,9 +12,9 @@
 
 include:
 - board: seed_xiao
-shield: ulp_split_left
-snippet: studio-rpc-usb-uart
-cmake-args: -DCONFIG_ZMK_STUDIO=y
+  shield: ulp_split_left
+  snippet: studio-rpc-usb-uart
+  cmake-args: -DCONFIG_ZMK_STUDIO=y
 
 - board: seed_xiao
-shield: ulp_split_right
+  shield: ulp_split_right
