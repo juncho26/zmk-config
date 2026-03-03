@@ -25,12 +25,12 @@
         wakeup-source;
 
         row-gpios
-            = <&XIAO_d 7 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&XIAO_d 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&XIAO_d 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&XIAO_d 6 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&XIAO_d 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&XIAO_d 4 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            = <&xiao_d 7 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&xiao_d 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&xiao_d 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&xiao_d 6 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&xiao_d 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&xiao_d 4 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
 
         // Replace these comments with the GPIO pins in the matrix.
