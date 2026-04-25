@@ -15,3 +15,5 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: seeeduino_xiao_ble
     shield: ulp_split_right
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
