@@ -16,4 +16,4 @@ include:
   - board: seeeduino_xiao_ble
     shield: ulp_split_right
   - board: seeeduino_xiao_ble
-    shield: tester_xiao
+    shield: settings_reset
